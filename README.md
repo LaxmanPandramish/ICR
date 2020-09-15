@@ -10,7 +10,7 @@ Gathered Requirements
 •	Will try to setup a small pipeline which differentiates Build and Deployment Cycles
 Objectives:
 •	Developing an Web-Application which allows users to Interact with  each other
-•	Will be completed over course of 90 days (As Listed on Embark)
+•	Will be completed over course of 90 days
 •	Allows me to Dust-off of the cobwebs and be expert in Event-Driven Architecture and Deployment/Build Strategies
 Requirements/Task(s):
 Will start Learning React
